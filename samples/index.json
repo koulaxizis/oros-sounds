@@ -1,0 +1,511 @@
+{
+ "version": 1,
+ "groups": [
+  {
+   "id": "drums",
+   "name": "Drums",
+   "names": {
+    "el": "Τύμπανα και ταμπούρα",
+    "de": "Trommeln"
+   },
+   "items": [
+    {
+     "id": "bass-drum-hit",
+     "name": "Bass drum hit",
+     "names": {
+      "el": "Μεγάλο τύμπανο, χτύπημα",
+      "de": "Große Trommel, Schlag"
+     },
+     "file": "drums/bass-drum-hit.mp3",
+     "bytes": 50006,
+     "dur": 6.3,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "bass-drum-rub",
+     "name": "Bass drum rub",
+     "names": {
+      "el": "Μεγάλο τύμπανο, τρίψιμο",
+      "de": "Große Trommel, gerieben"
+     },
+     "file": "drums/bass-drum-rub.mp3",
+     "bytes": 165369,
+     "dur": 11.21,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "snare-hit",
+     "name": "Snare hit",
+     "names": {
+      "el": "Ταμπούρο, χτύπημα",
+      "de": "Kleine Trommel, Schlag"
+     },
+     "file": "drums/snare-hit.mp3",
+     "bytes": 21551,
+     "dur": 1.7,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "snare-hit-off",
+     "name": "Snare hit, snares off",
+     "names": {
+      "el": "Ταμπούρο χωρίς σπιράλ",
+      "de": "Kleine Trommel ohne Teppich"
+     },
+     "file": "drums/snare-hit-off.mp3",
+     "bytes": 14591,
+     "dur": 1.15,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "snare-taps",
+     "name": "Snare taps",
+     "names": {
+      "el": "Ταμπούρο, ελαφριά χτυπήματα",
+      "de": "Kleine Trommel, Tupfer"
+     },
+     "file": "drums/snare-taps.mp3",
+     "bytes": 16987,
+     "dur": 1.44,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "snare-roll",
+     "name": "Snare roll",
+     "names": {
+      "el": "Ταμπούρο, τρέμολο",
+      "de": "Kleine Trommel, Wirbel"
+     },
+     "file": "drums/snare-roll.mp3",
+     "bytes": 189268,
+     "dur": 9.53,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "conga-high",
+     "name": "Conga, high",
+     "names": {
+      "el": "Κόνγκα, ψηλή",
+      "de": "Conga, hoch"
+     },
+     "file": "drums/conga-high.mp3",
+     "bytes": 15035,
+     "dur": 1.2,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "conga-mid",
+     "name": "Conga, middle",
+     "names": {
+      "el": "Κόνγκα, μεσαία",
+      "de": "Conga, mittel"
+     },
+     "file": "drums/conga-mid.mp3",
+     "bytes": 12391,
+     "dur": 1.36,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "conga-low",
+     "name": "Conga, low",
+     "names": {
+      "el": "Κόνγκα, χαμηλή",
+      "de": "Conga, tief"
+     },
+     "file": "drums/conga-low.mp3",
+     "bytes": 8957,
+     "dur": 0.78,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "log-drum-high",
+     "name": "Log drum, high",
+     "names": {
+      "el": "Ξύλινο τύμπανο, ψηλό",
+      "de": "Schlitztrommel, hoch"
+     },
+     "file": "drums/log-drum-high.mp3",
+     "bytes": 12494,
+     "dur": 1.57,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "log-drum-low",
+     "name": "Log drum, low",
+     "names": {
+      "el": "Ξύλινο τύμπανο, χαμηλό",
+      "de": "Schlitztrommel, tief"
+     },
+     "file": "drums/log-drum-low.mp3",
+     "bytes": 11534,
+     "dur": 1.28,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    }
+   ]
+  },
+  {
+   "id": "cymbals",
+   "name": "Cymbals and gong",
+   "names": {
+    "el": "Πιατίνια και γκονγκ",
+    "de": "Becken und Gong"
+   },
+   "items": [
+    {
+     "id": "crash",
+     "name": "Crash cymbals",
+     "names": {
+      "el": "Πιατίνια, χτύπημα",
+      "de": "Becken, Schlag"
+     },
+     "file": "cymbals/crash.mp3",
+     "bytes": 204940,
+     "dur": 10.08,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "suspended-hit",
+     "name": "Suspended cymbal hit",
+     "names": {
+      "el": "Κρεμαστό πιατίνι, χτύπημα",
+      "de": "Hängebecken, Schlag"
+     },
+     "file": "cymbals/suspended-hit.mp3",
+     "bytes": 230266,
+     "dur": 12.04,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "suspended-stick",
+     "name": "Suspended cymbal, stick",
+     "names": {
+      "el": "Κρεμαστό πιατίνι, μπαγκέτα",
+      "de": "Hängebecken, Stock"
+     },
+     "file": "cymbals/suspended-stick.mp3",
+     "bytes": 220078,
+     "dur": 11.7,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "swell-short",
+     "name": "Cymbal swell, short",
+     "names": {
+      "el": "Φούσκωμα πιατινιού, σύντομο",
+      "de": "Beckenwirbel, kurz"
+     },
+     "file": "cymbals/swell-short.mp3",
+     "bytes": 226305,
+     "dur": 11.96,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "swell-medium",
+     "name": "Cymbal swell, medium",
+     "names": {
+      "el": "Φούσκωμα πιατινιού, μεσαίο",
+      "de": "Beckenwirbel, mittel"
+     },
+     "file": "cymbals/swell-medium.mp3",
+     "bytes": 223013,
+     "dur": 12.04,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "swell-long",
+     "name": "Cymbal swell, long",
+     "names": {
+      "el": "Φούσκωμα πιατινιού, μακρύ",
+      "de": "Beckenwirbel, lang"
+     },
+     "file": "cymbals/swell-long.mp3",
+     "bytes": 221825,
+     "dur": 12.04,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "bowed-cymbal",
+     "name": "Bowed cymbal",
+     "names": {
+      "el": "Πιατίνι με δοξάρι",
+      "de": "Gestrichenes Becken"
+     },
+     "file": "cymbals/bowed-cymbal.mp3",
+     "bytes": 50342,
+     "dur": 2.69,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "gong",
+     "name": "Gong",
+     "names": {
+      "el": "Γκονγκ",
+      "de": "Gong"
+     },
+     "file": "cymbals/gong.mp3",
+     "bytes": 179622,
+     "dur": 12.04,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "gong-scrape",
+     "name": "Gong scrape",
+     "names": {
+      "el": "Γκονγκ, ξύσιμο",
+      "de": "Gong, geschabt"
+     },
+     "file": "cymbals/gong-scrape.mp3",
+     "bytes": 161392,
+     "dur": 9.53,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    }
+   ]
+  },
+  {
+   "id": "small",
+   "name": "Small percussion",
+   "names": {
+    "el": "Μικρά κρουστά",
+    "de": "Kleines Schlagwerk"
+   },
+   "items": [
+    {
+     "id": "tambourine-hit",
+     "name": "Tambourine hit",
+     "names": {
+      "el": "Ντέφι, χτύπημα",
+      "de": "Tamburin, Schlag"
+     },
+     "file": "small/tambourine-hit.mp3",
+     "bytes": 24557,
+     "dur": 1.7,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "tambourine-shake",
+     "name": "Tambourine shake",
+     "names": {
+      "el": "Ντέφι, κούνημα",
+      "de": "Tamburin, geschüttelt"
+     },
+     "file": "small/tambourine-shake.mp3",
+     "bytes": 18896,
+     "dur": 1.52,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "tambourine-roll",
+     "name": "Tambourine roll",
+     "names": {
+      "el": "Ντέφι, τρέμολο",
+      "de": "Tamburin, Wirbel"
+     },
+     "file": "small/tambourine-roll.mp3",
+     "bytes": 288879,
+     "dur": 9.74,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "cowbell",
+     "name": "Cowbell",
+     "names": {
+      "el": "Κουδούνα",
+      "de": "Kuhglocke"
+     },
+     "file": "small/cowbell.mp3",
+     "bytes": 15141,
+     "dur": 1.15,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "claves",
+     "name": "Claves",
+     "names": {
+      "el": "Κλάβες",
+      "de": "Claves"
+     },
+     "file": "small/claves.mp3",
+     "bytes": 14772,
+     "dur": 1.33,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "guiro",
+     "name": "Guiro",
+     "names": {
+      "el": "Γκουίρο",
+      "de": "Guiro"
+     },
+     "file": "small/guiro.mp3",
+     "bytes": 12682,
+     "dur": 1.36,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "triangle",
+     "name": "Triangle",
+     "names": {
+      "el": "Τρίγωνο",
+      "de": "Triangel"
+     },
+     "file": "small/triangle.mp3",
+     "bytes": 89919,
+     "dur": 11.94,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "triangle-muted",
+     "name": "Triangle, muted",
+     "names": {
+      "el": "Τρίγωνο, πνιχτό",
+      "de": "Triangel, gedämpft"
+     },
+     "file": "small/triangle-muted.mp3",
+     "bytes": 11021,
+     "dur": 0.89,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "sleigh-bells",
+     "name": "Sleigh bells",
+     "names": {
+      "el": "Κουδουνάκια έλκηθρου",
+      "de": "Schlittenglocken"
+     },
+     "file": "small/sleigh-bells.mp3",
+     "bytes": 38880,
+     "dur": 2.53,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "bell-tree",
+     "name": "Bell tree",
+     "names": {
+      "el": "Δέντρο καμπανακιών",
+      "de": "Schellenbaum"
+     },
+     "file": "small/bell-tree.mp3",
+     "bytes": 54550,
+     "dur": 4,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "vibraslap",
+     "name": "Vibraslap",
+     "names": {
+      "el": "Βιμπρασλάπ",
+      "de": "Vibraslap"
+     },
+     "file": "small/vibraslap.mp3",
+     "bytes": 21501,
+     "dur": 1.72,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "ratchet",
+     "name": "Ratchet",
+     "names": {
+      "el": "Ροκάνα",
+      "de": "Ratsche"
+     },
+     "file": "small/ratchet.mp3",
+     "bytes": 226853,
+     "dur": 7.11,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "anvil",
+     "name": "Anvil",
+     "names": {
+      "el": "Αμόνι",
+      "de": "Amboss"
+     },
+     "file": "small/anvil.mp3",
+     "bytes": 27598,
+     "dur": 2.38,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    },
+    {
+     "id": "brake-drum",
+     "name": "Brake drum",
+     "names": {
+      "el": "Ταμπούρο φρένου",
+      "de": "Bremstrommel"
+     },
+     "file": "small/brake-drum.mp3",
+     "bytes": 22285,
+     "dur": 1.72,
+     "lic": "cc0",
+     "by": "Versilian Studios (VSCO 2 CE)",
+     "url": "https://github.com/sgossner/VSCO-2-CE"
+    }
+   ]
+  }
+ ]
+}

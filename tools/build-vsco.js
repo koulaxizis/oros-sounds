@@ -42,7 +42,8 @@ const PACKS = [
   ["vsco-marimba", "Marimba", "Percussion", "Marimba", 1, 4, "piano"],
   ["vsco-xylophone", "Xylophone", "Percussion", "Xylophone", 1, 3, "piano"],
   ["vsco-timpani", "Timpani", "Percussion", "Timpani", 2, 6, "drums"],
-  ["vsco-tubular-bells", "Tubular Bells", "Percussion", "TubularBells", 1, 8, "piano"]
+  ["vsco-tubular-bells", "Tubular Bells", "Percussion", "TubularBells", 1, 8, "piano"],
+  ["vsco-percussion", "Orchestral Percussion", "Percussion", "GM-StylePerc", 2, 6, "drums"]
 ];
 // the names in Studio's other languages (Studio shows `name` otherwise)
 const NAMES = {
@@ -125,6 +126,10 @@ const NAMES = {
  "Timpani": {
   "el": "Τύμπανα (timpani)",
   "de": "Pauken"
+ },
+ "Orchestral Percussion": {
+  "el": "Ορχηστρικά κρουστά",
+  "de": "Orchesterschlagwerk"
  },
  "Tubular Bells": {
   "el": "Σωληνωτές καμπάνες",

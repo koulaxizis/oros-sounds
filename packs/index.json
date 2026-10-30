@@ -191,6 +191,27 @@
    "layers": 1
   },
   {
+   "id": "vsco-percussion",
+   "name": "Orchestral Percussion",
+   "names": {
+    "el": "Ορχηστρικά κρουστά",
+    "de": "Orchesterschlagwerk"
+   },
+   "category": "Percussion",
+   "kind": "drums",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 79,
+   "bytes": 4531061,
+   "keys": [
+    32,
+    104
+   ],
+   "layers": 2
+  },
+  {
    "id": "vsco-timpani",
    "name": "Timpani",
    "names": {
