@@ -1,0 +1,127 @@
+// Salamander Grand Piano V3 (Yamaha C5) by Alexander Holm, CC BY 3.0
+// https://archive.org/details/SalamanderGrandPianoV3 (SFZ by kinwie, sfzinstruments/SalamanderGrandPiano)
+// Changed for orOS Studio by koulaxizis/oros-sounds: 4 of 16 velocity layers, no release noises,
+// leading silence trimmed, tails cut at 7 s with a fade, MP3. Not endorsed by the author.
+<global>
+ampeg_release=1
+amp_veltrack=50
+<region> sample=a0v5.mp3 lokey=21 hikey=22 pitch_keycenter=21 lovel=0 hivel=46
+<region> sample=a0v10.mp3 lokey=21 hikey=22 pitch_keycenter=21 lovel=47 hivel=80
+<region> sample=a0v14.mp3 lokey=21 hikey=22 pitch_keycenter=21 lovel=81 hivel=112
+<region> sample=a0v16.mp3 lokey=21 hikey=22 pitch_keycenter=21 lovel=113 hivel=127
+<region> sample=c1v5.mp3 lokey=23 hikey=25 pitch_keycenter=24 lovel=0 hivel=46
+<region> sample=c1v10.mp3 lokey=23 hikey=25 pitch_keycenter=24 lovel=47 hivel=80
+<region> sample=c1v14.mp3 lokey=23 hikey=25 pitch_keycenter=24 lovel=81 hivel=112
+<region> sample=c1v16.mp3 lokey=23 hikey=25 pitch_keycenter=24 lovel=113 hivel=127
+<region> sample=ds1v5.mp3 lokey=26 hikey=28 pitch_keycenter=27 lovel=0 hivel=46
+<region> sample=ds1v10.mp3 lokey=26 hikey=28 pitch_keycenter=27 lovel=47 hivel=80
+<region> sample=ds1v14.mp3 lokey=26 hikey=28 pitch_keycenter=27 lovel=81 hivel=112
+<region> sample=ds1v16.mp3 lokey=26 hikey=28 pitch_keycenter=27 lovel=113 hivel=127
+<region> sample=fs1v5.mp3 lokey=29 hikey=31 pitch_keycenter=30 lovel=0 hivel=46
+<region> sample=fs1v10.mp3 lokey=29 hikey=31 pitch_keycenter=30 lovel=47 hivel=80
+<region> sample=fs1v14.mp3 lokey=29 hikey=31 pitch_keycenter=30 lovel=81 hivel=112
+<region> sample=fs1v16.mp3 lokey=29 hikey=31 pitch_keycenter=30 lovel=113 hivel=127
+<region> sample=a1v5.mp3 lokey=32 hikey=34 pitch_keycenter=33 lovel=0 hivel=46
+<region> sample=a1v10.mp3 lokey=32 hikey=34 pitch_keycenter=33 lovel=47 hivel=80
+<region> sample=a1v14.mp3 lokey=32 hikey=34 pitch_keycenter=33 lovel=81 hivel=112
+<region> sample=a1v16.mp3 lokey=32 hikey=34 pitch_keycenter=33 lovel=113 hivel=127
+<region> sample=c2v5.mp3 lokey=35 hikey=37 pitch_keycenter=36 lovel=0 hivel=46
+<region> sample=c2v10.mp3 lokey=35 hikey=37 pitch_keycenter=36 lovel=47 hivel=80
+<region> sample=c2v14.mp3 lokey=35 hikey=37 pitch_keycenter=36 lovel=81 hivel=112
+<region> sample=c2v16.mp3 lokey=35 hikey=37 pitch_keycenter=36 lovel=113 hivel=127
+<region> sample=ds2v5.mp3 lokey=38 hikey=40 pitch_keycenter=39 lovel=0 hivel=46
+<region> sample=ds2v10.mp3 lokey=38 hikey=40 pitch_keycenter=39 lovel=47 hivel=80
+<region> sample=ds2v14.mp3 lokey=38 hikey=40 pitch_keycenter=39 lovel=81 hivel=112
+<region> sample=ds2v16.mp3 lokey=38 hikey=40 pitch_keycenter=39 lovel=113 hivel=127
+<region> sample=fs2v5.mp3 lokey=41 hikey=43 pitch_keycenter=42 lovel=0 hivel=46
+<region> sample=fs2v10.mp3 lokey=41 hikey=43 pitch_keycenter=42 lovel=47 hivel=80
+<region> sample=fs2v14.mp3 lokey=41 hikey=43 pitch_keycenter=42 lovel=81 hivel=112
+<region> sample=fs2v16.mp3 lokey=41 hikey=43 pitch_keycenter=42 lovel=113 hivel=127
+<region> sample=a2v5.mp3 lokey=44 hikey=46 pitch_keycenter=45 lovel=0 hivel=46
+<region> sample=a2v10.mp3 lokey=44 hikey=46 pitch_keycenter=45 lovel=47 hivel=80
+<region> sample=a2v14.mp3 lokey=44 hikey=46 pitch_keycenter=45 lovel=81 hivel=112
+<region> sample=a2v16.mp3 lokey=44 hikey=46 pitch_keycenter=45 lovel=113 hivel=127
+<region> sample=c3v5.mp3 lokey=47 hikey=49 pitch_keycenter=48 lovel=0 hivel=46
+<region> sample=c3v10.mp3 lokey=47 hikey=49 pitch_keycenter=48 lovel=47 hivel=80
+<region> sample=c3v14.mp3 lokey=47 hikey=49 pitch_keycenter=48 lovel=81 hivel=112
+<region> sample=c3v16.mp3 lokey=47 hikey=49 pitch_keycenter=48 lovel=113 hivel=127
+<region> sample=ds3v5.mp3 lokey=50 hikey=52 pitch_keycenter=51 lovel=0 hivel=46
+<region> sample=ds3v10.mp3 lokey=50 hikey=52 pitch_keycenter=51 lovel=47 hivel=80
+<region> sample=ds3v14.mp3 lokey=50 hikey=52 pitch_keycenter=51 lovel=81 hivel=112
+<region> sample=ds3v16.mp3 lokey=50 hikey=52 pitch_keycenter=51 lovel=113 hivel=127
+<region> sample=fs3v5.mp3 lokey=53 hikey=55 pitch_keycenter=54 lovel=0 hivel=46
+<region> sample=fs3v10.mp3 lokey=53 hikey=55 pitch_keycenter=54 lovel=47 hivel=80
+<region> sample=fs3v14.mp3 lokey=53 hikey=55 pitch_keycenter=54 lovel=81 hivel=112
+<region> sample=fs3v16.mp3 lokey=53 hikey=55 pitch_keycenter=54 lovel=113 hivel=127
+<region> sample=a3v5.mp3 lokey=56 hikey=58 pitch_keycenter=57 lovel=0 hivel=46
+<region> sample=a3v10.mp3 lokey=56 hikey=58 pitch_keycenter=57 lovel=47 hivel=80
+<region> sample=a3v14.mp3 lokey=56 hikey=58 pitch_keycenter=57 lovel=81 hivel=112
+<region> sample=a3v16.mp3 lokey=56 hikey=58 pitch_keycenter=57 lovel=113 hivel=127
+<region> sample=c4v5.mp3 lokey=59 hikey=61 pitch_keycenter=60 lovel=0 hivel=46
+<region> sample=c4v10.mp3 lokey=59 hikey=61 pitch_keycenter=60 lovel=47 hivel=80
+<region> sample=c4v14.mp3 lokey=59 hikey=61 pitch_keycenter=60 lovel=81 hivel=112
+<region> sample=c4v16.mp3 lokey=59 hikey=61 pitch_keycenter=60 lovel=113 hivel=127
+<region> sample=ds4v5.mp3 lokey=62 hikey=64 pitch_keycenter=63 lovel=0 hivel=46
+<region> sample=ds4v10.mp3 lokey=62 hikey=64 pitch_keycenter=63 lovel=47 hivel=80
+<region> sample=ds4v14.mp3 lokey=62 hikey=64 pitch_keycenter=63 lovel=81 hivel=112
+<region> sample=ds4v16.mp3 lokey=62 hikey=64 pitch_keycenter=63 lovel=113 hivel=127
+<region> sample=fs4v5.mp3 lokey=65 hikey=67 pitch_keycenter=66 lovel=0 hivel=46
+<region> sample=fs4v10.mp3 lokey=65 hikey=67 pitch_keycenter=66 lovel=47 hivel=80
+<region> sample=fs4v14.mp3 lokey=65 hikey=67 pitch_keycenter=66 lovel=81 hivel=112
+<region> sample=fs4v16.mp3 lokey=65 hikey=67 pitch_keycenter=66 lovel=113 hivel=127
+<region> sample=a4v5.mp3 lokey=68 hikey=70 pitch_keycenter=69 lovel=0 hivel=46
+<region> sample=a4v10.mp3 lokey=68 hikey=70 pitch_keycenter=69 lovel=47 hivel=80
+<region> sample=a4v14.mp3 lokey=68 hikey=70 pitch_keycenter=69 lovel=81 hivel=112
+<region> sample=a4v16.mp3 lokey=68 hikey=70 pitch_keycenter=69 lovel=113 hivel=127
+<region> sample=c5v5.mp3 lokey=71 hikey=73 pitch_keycenter=72 lovel=0 hivel=46
+<region> sample=c5v10.mp3 lokey=71 hikey=73 pitch_keycenter=72 lovel=47 hivel=80
+<region> sample=c5v14.mp3 lokey=71 hikey=73 pitch_keycenter=72 lovel=81 hivel=112
+<region> sample=c5v16.mp3 lokey=71 hikey=73 pitch_keycenter=72 lovel=113 hivel=127
+<region> sample=ds5v5.mp3 lokey=74 hikey=76 pitch_keycenter=75 lovel=0 hivel=46
+<region> sample=ds5v10.mp3 lokey=74 hikey=76 pitch_keycenter=75 lovel=47 hivel=80
+<region> sample=ds5v14.mp3 lokey=74 hikey=76 pitch_keycenter=75 lovel=81 hivel=112
+<region> sample=ds5v16.mp3 lokey=74 hikey=76 pitch_keycenter=75 lovel=113 hivel=127
+<region> sample=fs5v5.mp3 lokey=77 hikey=79 pitch_keycenter=78 lovel=0 hivel=46
+<region> sample=fs5v10.mp3 lokey=77 hikey=79 pitch_keycenter=78 lovel=47 hivel=80
+<region> sample=fs5v14.mp3 lokey=77 hikey=79 pitch_keycenter=78 lovel=81 hivel=112
+<region> sample=fs5v16.mp3 lokey=77 hikey=79 pitch_keycenter=78 lovel=113 hivel=127
+<region> sample=a5v5.mp3 lokey=80 hikey=82 pitch_keycenter=81 lovel=0 hivel=46
+<region> sample=a5v10.mp3 lokey=80 hikey=82 pitch_keycenter=81 lovel=47 hivel=80
+<region> sample=a5v14.mp3 lokey=80 hikey=82 pitch_keycenter=81 lovel=81 hivel=112
+<region> sample=a5v16.mp3 lokey=80 hikey=82 pitch_keycenter=81 lovel=113 hivel=127
+<region> sample=c6v5.mp3 lokey=83 hikey=85 pitch_keycenter=84 lovel=0 hivel=46
+<region> sample=c6v10.mp3 lokey=83 hikey=85 pitch_keycenter=84 lovel=47 hivel=80
+<region> sample=c6v14.mp3 lokey=83 hikey=85 pitch_keycenter=84 lovel=81 hivel=112
+<region> sample=c6v16.mp3 lokey=83 hikey=85 pitch_keycenter=84 lovel=113 hivel=127
+<region> sample=ds6v5.mp3 lokey=86 hikey=88 pitch_keycenter=87 lovel=0 hivel=46
+<region> sample=ds6v10.mp3 lokey=86 hikey=88 pitch_keycenter=87 lovel=47 hivel=80
+<region> sample=ds6v14.mp3 lokey=86 hikey=88 pitch_keycenter=87 lovel=81 hivel=112
+<region> sample=ds6v16.mp3 lokey=86 hikey=88 pitch_keycenter=87 lovel=113 hivel=127
+<region> sample=fs6v5.mp3 lokey=89 hikey=91 pitch_keycenter=90 lovel=0 hivel=46 ampeg_release=3
+<region> sample=fs6v10.mp3 lokey=89 hikey=91 pitch_keycenter=90 lovel=47 hivel=80 ampeg_release=3
+<region> sample=fs6v14.mp3 lokey=89 hikey=91 pitch_keycenter=90 lovel=81 hivel=112 ampeg_release=3
+<region> sample=fs6v16.mp3 lokey=89 hikey=91 pitch_keycenter=90 lovel=113 hivel=127 ampeg_release=3
+<region> sample=a6v5.mp3 lokey=92 hikey=94 pitch_keycenter=93 lovel=0 hivel=46 ampeg_release=3
+<region> sample=a6v10.mp3 lokey=92 hikey=94 pitch_keycenter=93 lovel=47 hivel=80 ampeg_release=3
+<region> sample=a6v14.mp3 lokey=92 hikey=94 pitch_keycenter=93 lovel=81 hivel=112 ampeg_release=3
+<region> sample=a6v16.mp3 lokey=92 hikey=94 pitch_keycenter=93 lovel=113 hivel=127 ampeg_release=3
+<region> sample=c7v5.mp3 lokey=95 hikey=97 pitch_keycenter=96 lovel=0 hivel=46 ampeg_release=4
+<region> sample=c7v10.mp3 lokey=95 hikey=97 pitch_keycenter=96 lovel=47 hivel=80 ampeg_release=4
+<region> sample=c7v14.mp3 lokey=95 hikey=97 pitch_keycenter=96 lovel=81 hivel=112 ampeg_release=4
+<region> sample=c7v16.mp3 lokey=95 hikey=97 pitch_keycenter=96 lovel=113 hivel=127 ampeg_release=4
+<region> sample=ds7v5.mp3 lokey=98 hikey=100 pitch_keycenter=99 lovel=0 hivel=46 ampeg_release=4
+<region> sample=ds7v10.mp3 lokey=98 hikey=100 pitch_keycenter=99 lovel=47 hivel=80 ampeg_release=4
+<region> sample=ds7v14.mp3 lokey=98 hikey=100 pitch_keycenter=99 lovel=81 hivel=112 ampeg_release=4
+<region> sample=ds7v16.mp3 lokey=98 hikey=100 pitch_keycenter=99 lovel=113 hivel=127 ampeg_release=4
+<region> sample=fs7v5.mp3 lokey=101 hikey=103 pitch_keycenter=102 lovel=0 hivel=46 ampeg_release=4
+<region> sample=fs7v10.mp3 lokey=101 hikey=103 pitch_keycenter=102 lovel=47 hivel=80 ampeg_release=4
+<region> sample=fs7v14.mp3 lokey=101 hikey=103 pitch_keycenter=102 lovel=81 hivel=112 ampeg_release=4
+<region> sample=fs7v16.mp3 lokey=101 hikey=103 pitch_keycenter=102 lovel=113 hivel=127 ampeg_release=4
+<region> sample=a7v5.mp3 lokey=104 hikey=106 pitch_keycenter=105 lovel=0 hivel=46 ampeg_release=4
+<region> sample=a7v10.mp3 lokey=104 hikey=106 pitch_keycenter=105 lovel=47 hivel=80 ampeg_release=4
+<region> sample=a7v14.mp3 lokey=104 hikey=106 pitch_keycenter=105 lovel=81 hivel=112 ampeg_release=4
+<region> sample=a7v16.mp3 lokey=104 hikey=106 pitch_keycenter=105 lovel=113 hivel=127 ampeg_release=4
+<region> sample=c8v5.mp3 lokey=107 hikey=108 pitch_keycenter=108 lovel=0 hivel=46 ampeg_release=4
+<region> sample=c8v10.mp3 lokey=107 hikey=108 pitch_keycenter=108 lovel=47 hivel=80 ampeg_release=4
+<region> sample=c8v14.mp3 lokey=107 hikey=108 pitch_keycenter=108 lovel=81 hivel=112 ampeg_release=4
+<region> sample=c8v16.mp3 lokey=107 hikey=108 pitch_keycenter=108 lovel=113 hivel=127 ampeg_release=4
