@@ -86,6 +86,27 @@
    "layers": 2
   },
   {
+   "id": "salamander-grand-piano",
+   "name": "Grand Piano",
+   "names": {
+    "el": "Πιάνο με ουρά",
+    "de": "Flügel"
+   },
+   "category": "Keys",
+   "kind": "piano",
+   "lic": "by",
+   "by": "Alexander Holm (Salamander Grand Piano V3)",
+   "url": "https://archive.org/details/SalamanderGrandPianoV3",
+   "sfz": "instrument.sfz",
+   "files": 120,
+   "bytes": 10408995,
+   "keys": [
+    21,
+    108
+   ],
+   "layers": 4
+  },
+  {
    "id": "vsco-organ",
    "name": "Pipe Organ",
    "names": {
