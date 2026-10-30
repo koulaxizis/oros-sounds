@@ -44,6 +44,93 @@ const PACKS = [
   ["vsco-timpani", "Timpani", "Percussion", "Timpani", 2, 6, "drums"],
   ["vsco-tubular-bells", "Tubular Bells", "Percussion", "TubularBells", 1, 8, "piano"]
 ];
+// the names in Studio's other languages (Studio shows `name` otherwise)
+const NAMES = {
+ "Upright Piano": {
+  "el": "Όρθιο πιάνο",
+  "de": "Klavier"
+ },
+ "Pipe Organ": {
+  "el": "Εκκλησιαστικό όργανο",
+  "de": "Pfeifenorgel"
+ },
+ "Violin Section": {
+  "el": "Βιολιά (ομάδα)",
+  "de": "Violinen"
+ },
+ "Viola Section": {
+  "el": "Βιόλες (ομάδα)",
+  "de": "Bratschen"
+ },
+ "Cello Section": {
+  "el": "Τσέλα (ομάδα)",
+  "de": "Celli"
+ },
+ "Contrabass": {
+  "el": "Κοντραμπάσο",
+  "de": "Kontrabass"
+ },
+ "Violins Pizzicato": {
+  "el": "Βιολιά πιτσικάτο",
+  "de": "Violinen pizzicato"
+ },
+ "Harp": {
+  "el": "Άρπα",
+  "de": "Harfe"
+ },
+ "Flute": {
+  "el": "Φλάουτο",
+  "de": "Flöte"
+ },
+ "Oboe": {
+  "el": "Όμποε",
+  "de": "Oboe"
+ },
+ "Clarinet": {
+  "el": "Κλαρινέτο",
+  "de": "Klarinette"
+ },
+ "Bassoon": {
+  "el": "Φαγκότο",
+  "de": "Fagott"
+ },
+ "French Horn": {
+  "el": "Κόρνο",
+  "de": "Horn"
+ },
+ "Trumpet": {
+  "el": "Τρομπέτα",
+  "de": "Trompete"
+ },
+ "Trombone": {
+  "el": "Τρομπόνι",
+  "de": "Posaune"
+ },
+ "Tuba": {
+  "el": "Τούμπα",
+  "de": "Tuba"
+ },
+ "Glockenspiel": {
+  "el": "Γκλόκενσπιλ",
+  "de": "Glockenspiel"
+ },
+ "Marimba": {
+  "el": "Μαρίμπα",
+  "de": "Marimba"
+ },
+ "Xylophone": {
+  "el": "Ξυλόφωνο",
+  "de": "Xylofon"
+ },
+ "Timpani": {
+  "el": "Τύμπανα (timpani)",
+  "de": "Pauken"
+ },
+ "Tubular Bells": {
+  "el": "Σωληνωτές καμπάνες",
+  "de": "Röhrenglocken"
+ }
+};
 const FADE = 0.5;
 const PASS = ["lokey", "hikey", "pitch_keycenter", "lovel", "hivel", "volume", "tune", "transpose", "pan",
   "ampeg_attack", "ampeg_hold", "ampeg_decay", "ampeg_sustain", "ampeg_release"];
@@ -156,7 +243,7 @@ function main() {
     bytes += Buffer.byteLength(text);
     const files = Object.keys(done).sort();
     packs.push({
-      id, name, category: cat, kind, lic: "cc0",
+      id, name, names: NAMES[name], category: cat, kind, lic: "cc0",
       by: "Versilian Studios (VSCO 2 CE)", url: "https://github.com/sgossner/VSCO-2-CE",
       sfz: "instrument.sfz", files: files.length, bytes,
       keys: [Math.min(...regions.map((r) => num(r.lokey, 0))), Math.max(...regions.map((r) => num(r.hikey, 127)))],
