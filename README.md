@@ -16,8 +16,15 @@ A pack is a folder with `instrument.sfz` (the subset Studio plays, see
 
 | Source | Licence | Packs |
 |---|---|---|
-| [VS Chamber Orchestra: Community Edition](https://github.com/sgossner/VSCO-2-CE) (Versilian Studios; Sam Gossner, Simon Dalzell; sample cutting Elan Hickler/Soundemote) | CC0 1.0 | `vsco-*` (21) |
+| [VS Chamber Orchestra: Community Edition](https://github.com/sgossner/VSCO-2-CE) (Versilian Studios; Sam Gossner, Simon Dalzell; sample cutting Elan Hickler/Soundemote) | CC0 1.0 | `vsco-*` (22) |
 | [Salamander Grand Piano V3](https://archive.org/details/SalamanderGrandPianoV3) (Alexander Holm; SFZ by kinwie, [sfzinstruments](https://github.com/sfzinstruments/SalamanderGrandPiano)), changed: 4 of 16 velocity layers, no release noises, trimmed, MP3 | CC BY 3.0 | `salamander-grand-piano` |
+
+`samples/index.json` lists single sounds (hits, swells, rolls) in groups;
+Studio adds one as an audio clip with its licence card filled in.
+
+| Source | Licence | Sounds |
+|---|---|---|
+| VS Chamber Orchestra: Community Edition (percussion) | CC0 1.0 | 34 in `samples/` |
 
 Only sources without grey areas go here: CC0, public domain, or CC BY with
 the credit carried in the pack. Studio lists the pack in the song's credits
@@ -30,6 +37,7 @@ Packs are built, never edited by hand:
 ```
 node tools/build-vsco.js <VSCO-2-CE checkout> <folder with its .sfz files>
 node tools/build-salamander.js <SalamanderGrandPiano checkout>
+node tools/build-samples.js <VSCO-2-CE checkout>
 node tools/check.js
 ```
 
