@@ -1,0 +1,28 @@
+// Violins Pizzicato (VSCO 2 CE, reduced for orOS Studio by koulaxizis/oros-sounds)
+// Samples: VS Chamber Orchestra: Community Edition, Versilian Studios
+// (Sam Gossner, Simon Dalzell; sample cutting Elan Hickler/Soundemote). CC0 1.0.
+<global>
+ampeg_attack=0.001
+ampeg_release=4
+<region> sample=vlnens_pizz_g2_v1_rr1.mp3 lokey=55 hikey=55 pitch_keycenter=55 lovel=0 hivel=62 volume=17
+<region> sample=vlnens_pizz_g2_v2_rr1.mp3 lokey=55 hikey=55 pitch_keycenter=55 lovel=63 hivel=127 volume=6
+<region> sample=vlnens_pizz_a2_v1_rr1.mp3 lokey=56 hikey=57 pitch_keycenter=57 lovel=0 hivel=62 volume=17
+<region> sample=vlnens_pizz_a2_v2_rr1.mp3 lokey=56 hikey=57 pitch_keycenter=57 lovel=63 hivel=127 volume=6
+<region> sample=vlnens_pizz_b2_v1_rr1.mp3 lokey=58 hikey=60 pitch_keycenter=59 lovel=0 hivel=62 volume=17
+<region> sample=vlnens_pizz_b2_v2_rr1.mp3 lokey=58 hikey=60 pitch_keycenter=59 lovel=63 hivel=127 volume=6
+<region> sample=vlnens_pizz_d3_v1_rr1.mp3 lokey=61 hikey=63 pitch_keycenter=62 lovel=0 hivel=62 volume=17
+<region> sample=vlnens_pizz_d3_v2_rr1.mp3 lokey=61 hikey=63 pitch_keycenter=62 lovel=63 hivel=127 volume=6
+<region> sample=vlnens_pizz_fs3_v1_rr1.mp3 lokey=64 hikey=67 pitch_keycenter=66 lovel=0 hivel=62 volume=17
+<region> sample=vlnens_pizz_fs3_v2_rr1.mp3 lokey=64 hikey=67 pitch_keycenter=66 lovel=63 hivel=127 volume=6
+<region> sample=vlnens_pizz_a3_v1_rr1.mp3 lokey=68 hikey=70 pitch_keycenter=69 lovel=0 hivel=62 volume=17
+<region> sample=vlnens_pizz_a3_v2_rr1.mp3 lokey=68 hikey=70 pitch_keycenter=69 lovel=63 hivel=127 volume=6
+<region> sample=vlnens_pizz_c4_v1_rr1.mp3 lokey=71 hikey=73 pitch_keycenter=72 lovel=0 hivel=62 volume=17
+<region> sample=vlnens_pizz_c4_v2_rr1.mp3 lokey=71 hikey=73 pitch_keycenter=72 lovel=63 hivel=127 volume=6
+<region> sample=vlnens_pizz_e4_v1_rr1.mp3 lokey=74 hikey=77 pitch_keycenter=76 lovel=0 hivel=62 volume=17
+<region> sample=vlnens_pizz_e4_v2_rr1.mp3 lokey=74 hikey=77 pitch_keycenter=76 lovel=63 hivel=127 volume=6
+<region> sample=vlnens_pizz_g4_v1_rr1.mp3 lokey=78 hikey=80 pitch_keycenter=79 lovel=0 hivel=62 volume=17
+<region> sample=vlnens_pizz_g4_v2_rr1.mp3 lokey=78 hikey=80 pitch_keycenter=79 lovel=63 hivel=127 volume=6
+<region> sample=vlnens_pizz_b4_v1_rr1.mp3 lokey=81 hikey=84 pitch_keycenter=83 lovel=0 hivel=62 volume=17
+<region> sample=vlnens_pizz_b4_v2_rr1.mp3 lokey=81 hikey=84 pitch_keycenter=83 lovel=63 hivel=127 volume=6
+<region> sample=vlnens_pizz_d5_v1_rr1.mp3 lokey=85 hikey=86 pitch_keycenter=86 lovel=0 hivel=62 volume=17
+<region> sample=vlnens_pizz_d5_v2_rr1.mp3 lokey=85 hikey=86 pitch_keycenter=86 lovel=63 hivel=127 volume=6

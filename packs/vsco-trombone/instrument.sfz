@@ -1,0 +1,28 @@
+// Trombone (VSCO 2 CE, reduced for orOS Studio by koulaxizis/oros-sounds)
+// Samples: VS Chamber Orchestra: Community Edition, Versilian Studios
+// (Sam Gossner, Simon Dalzell; sample cutting Elan Hickler/Soundemote). CC0 1.0.
+<global>
+ampeg_attack=0.001
+ampeg_release=0.6
+<region> sample=tenortbn_sus_as0_v1_1.mp3 lokey=34 hikey=35 pitch_keycenter=34 lovel=0 hivel=62 volume=23
+<region> sample=tenortbn_sus_as0_v2_1.mp3 lokey=34 hikey=35 pitch_keycenter=34 lovel=63 hivel=127 volume=8
+<region> sample=tenortbn_sus_cs1_v1_1.mp3 lokey=36 hikey=37 pitch_keycenter=37 lovel=0 hivel=62 volume=23
+<region> sample=tenortbn_sus_cs1_v2_1.mp3 lokey=36 hikey=37 pitch_keycenter=37 lovel=63 hivel=127 volume=8
+<region> sample=tenortbn_sus_ds1_v2_1.mp3 lokey=38 hikey=39 pitch_keycenter=39 lovel=0 hivel=83 volume=15
+<region> sample=tenortbn_sus_ds1_v3_1.mp3 lokey=38 hikey=39 pitch_keycenter=39 lovel=84 hivel=127 volume=10
+<region> sample=tenortbn_sus_f1_v2_1.mp3 lokey=40 hikey=43 pitch_keycenter=41 lovel=0 hivel=83 volume=15
+<region> sample=tenortbn_sus_f1_v3_1.mp3 lokey=40 hikey=43 pitch_keycenter=41 lovel=84 hivel=127 volume=10
+<region> sample=tenortbn_sus_as1_v2_1.mp3 lokey=44 hikey=47 pitch_keycenter=46 lovel=0 hivel=83 volume=15
+<region> sample=tenortbn_sus_as1_v3_1.mp3 lokey=44 hikey=47 pitch_keycenter=46 lovel=84 hivel=127 volume=10
+<region> sample=tenortbn_sus_d2_v2_1.mp3 lokey=48 hikey=51 pitch_keycenter=50 lovel=0 hivel=83 volume=15
+<region> sample=tenortbn_sus_d2_v3_1.mp3 lokey=48 hikey=51 pitch_keycenter=50 lovel=84 hivel=127 volume=10
+<region> sample=tenortbn_sus_f2_v2_1.mp3 lokey=52 hikey=56 pitch_keycenter=53 lovel=0 hivel=83 volume=15
+<region> sample=tenortbn_sus_f2_v3_1.mp3 lokey=52 hikey=56 pitch_keycenter=53 lovel=84 hivel=127 volume=10
+<region> sample=tenortbn_sus_c3_v2_1.mp3 lokey=57 hikey=60 pitch_keycenter=60 lovel=0 hivel=83 volume=15
+<region> sample=tenortbn_sus_c3_v3_1.mp3 lokey=57 hikey=60 pitch_keycenter=60 lovel=84 hivel=127 volume=10
+<region> sample=tenortbn_sus_cs3_v2_1.mp3 lokey=61 hikey=61 pitch_keycenter=61 lovel=0 hivel=83 volume=15
+<region> sample=tenortbn_sus_cs3_v3_1.mp3 lokey=61 hikey=61 pitch_keycenter=61 lovel=84 hivel=127 volume=10
+<region> sample=tenortbn_sus_ds3_v2_1.mp3 lokey=62 hikey=63 pitch_keycenter=63 lovel=0 hivel=83 volume=15
+<region> sample=tenortbn_sus_ds3_v3_1.mp3 lokey=62 hikey=63 pitch_keycenter=63 lovel=84 hivel=127 volume=10
+<region> sample=tenortbn_sus_f3_v2_1.mp3 lokey=64 hikey=65 pitch_keycenter=65 lovel=0 hivel=83 volume=15
+<region> sample=tenortbn_sus_f3_v3_1.mp3 lokey=64 hikey=65 pitch_keycenter=65 lovel=84 hivel=127 volume=10

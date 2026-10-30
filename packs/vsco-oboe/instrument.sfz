@@ -1,0 +1,24 @@
+// Oboe (VSCO 2 CE, reduced for orOS Studio by koulaxizis/oros-sounds)
+// Samples: VS Chamber Orchestra: Community Edition, Versilian Studios
+// (Sam Gossner, Simon Dalzell; sample cutting Elan Hickler/Soundemote). CC0 1.0.
+<global>
+ampeg_attack=0.001
+ampeg_release=0.7
+<region> sample=oboe_vib_as2_v1_main.mp3 lokey=58 hikey=59 pitch_keycenter=58 lovel=0 hivel=62 volume=12
+<region> sample=oboe_vib_as2_v3_main.mp3 lokey=58 hikey=59 pitch_keycenter=58 lovel=63 hivel=127 volume=4
+<region> sample=oboe_vib_d3_v1_main.mp3 lokey=60 hikey=63 pitch_keycenter=62 lovel=0 hivel=62 volume=12
+<region> sample=oboe_vib_d3_v3_main.mp3 lokey=60 hikey=63 pitch_keycenter=62 lovel=63 hivel=127 volume=4
+<region> sample=oboe_vib_f3_v1_main.mp3 lokey=64 hikey=67 pitch_keycenter=65 lovel=0 hivel=62 volume=12
+<region> sample=oboe_vib_f3_v3_main.mp3 lokey=64 hikey=67 pitch_keycenter=65 lovel=63 hivel=127 volume=4
+<region> sample=oboe_vib_as3_v1_main.mp3 lokey=68 hikey=71 pitch_keycenter=70 lovel=0 hivel=62 volume=12
+<region> sample=oboe_vib_as3_v3_main.mp3 lokey=68 hikey=71 pitch_keycenter=70 lovel=63 hivel=127 volume=4
+<region> sample=oboe_vib_d4_v1_main.mp3 lokey=72 hikey=75 pitch_keycenter=74 lovel=0 hivel=62 volume=12
+<region> sample=oboe_vib_d4_v3_main.mp3 lokey=72 hikey=75 pitch_keycenter=74 lovel=63 hivel=127 volume=4
+<region> sample=oboe_vib_f4_v1_main.mp3 lokey=76 hikey=79 pitch_keycenter=77 lovel=0 hivel=62 volume=12
+<region> sample=oboe_vib_f4_v3_main.mp3 lokey=76 hikey=79 pitch_keycenter=77 lovel=63 hivel=127 volume=4
+<region> sample=oboe_vib_as4_v1_main.mp3 lokey=80 hikey=83 pitch_keycenter=82 lovel=0 hivel=62 volume=12
+<region> sample=oboe_vib_as4_v3_main.mp3 lokey=80 hikey=83 pitch_keycenter=82 lovel=63 hivel=127 volume=4
+<region> sample=oboe_vib_d5_v1_main.mp3 lokey=84 hikey=87 pitch_keycenter=86 lovel=0 hivel=62 volume=12
+<region> sample=oboe_vib_d5_v3_main.mp3 lokey=84 hikey=87 pitch_keycenter=86 lovel=63 hivel=127 volume=4
+<region> sample=oboe_vib_f5_v1_main.mp3 lokey=88 hikey=89 pitch_keycenter=89 lovel=0 hivel=62 volume=12
+<region> sample=oboe_vib_f5_v3_main.mp3 lokey=88 hikey=89 pitch_keycenter=89 lovel=63 hivel=127 volume=4 tune=0

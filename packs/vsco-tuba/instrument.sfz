@@ -1,0 +1,22 @@
+// Tuba (VSCO 2 CE, reduced for orOS Studio by koulaxizis/oros-sounds)
+// Samples: VS Chamber Orchestra: Community Edition, Versilian Studios
+// (Sam Gossner, Simon Dalzell; sample cutting Elan Hickler/Soundemote). CC0 1.0.
+<global>
+ampeg_attack=0.001
+ampeg_release=0.6
+<region> sample=tuba3_sus_f0_v1_rr1_mid.mp3 lokey=29 hikey=31 pitch_keycenter=29 lovel=0 hivel=127 volume=12
+<region> sample=tuba3_sus_as0_v2_rr1_mid.mp3 lokey=32 hikey=36 pitch_keycenter=34 lovel=0 hivel=83 volume=12
+<region> sample=tuba3_sus_as0_v3_rr1_mid.mp3 lokey=32 hikey=36 pitch_keycenter=34 lovel=84 hivel=127 volume=4
+<region> sample=tuba3_sus_ds1_v2_rr1_mid.mp3 lokey=37 hikey=39 pitch_keycenter=39 lovel=0 hivel=83 volume=12
+<region> sample=tuba3_sus_ds1_v3_rr1_mid.mp3 lokey=37 hikey=39 pitch_keycenter=39 lovel=84 hivel=127 volume=4
+<region> sample=tuba3_sus_f1_v2_rr1_mid.mp3 lokey=40 hikey=43 pitch_keycenter=41 lovel=0 hivel=83 volume=12
+<region> sample=tuba3_sus_f1_v3_rr1_mid.mp3 lokey=40 hikey=43 pitch_keycenter=41 lovel=84 hivel=127 volume=4
+<region> sample=tuba3_sus_as1_v2_rr1_mid.mp3 lokey=44 hikey=47 pitch_keycenter=46 lovel=0 hivel=83 volume=12
+<region> sample=tuba3_sus_as1_v3_rr1_mid.mp3 lokey=44 hikey=47 pitch_keycenter=46 lovel=84 hivel=127 volume=4
+<region> sample=tuba3_sus_d2_v2_rr1_mid.mp3 lokey=48 hikey=51 pitch_keycenter=50 lovel=0 hivel=83 volume=12
+<region> sample=tuba3_sus_d2_v3_rr1_mid.mp3 lokey=48 hikey=51 pitch_keycenter=50 lovel=84 hivel=127 volume=4
+<region> sample=tuba3_sus_f2_v2_rr1_mid.mp3 lokey=52 hikey=55 pitch_keycenter=53 lovel=0 hivel=83 volume=12
+<region> sample=tuba3_sus_f2_v3_rr1_mid.mp3 lokey=52 hikey=55 pitch_keycenter=53 lovel=84 hivel=127 volume=4
+<region> sample=tuba3_sus_as2_v2_rr1_mid.mp3 lokey=56 hikey=59 pitch_keycenter=58 lovel=0 hivel=83 volume=12
+<region> sample=tuba3_sus_as2_v3_rr1_mid.mp3 lokey=56 hikey=59 pitch_keycenter=58 lovel=84 hivel=127 volume=4
+<region> sample=tuba3_sus_d3_v1_rr1_mid.mp3 lokey=60 hikey=62 pitch_keycenter=62 lovel=0 hivel=127 volume=12

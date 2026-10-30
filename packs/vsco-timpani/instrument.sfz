@@ -1,0 +1,16 @@
+// Timpani (VSCO 2 CE, reduced for orOS Studio by koulaxizis/oros-sounds)
+// Samples: VS Chamber Orchestra: Community Edition, Versilian Studios
+// (Sam Gossner, Simon Dalzell; sample cutting Elan Hickler/Soundemote). CC0 1.0.
+<global>
+ampeg_attack=0.005
+ampeg_release=12
+<region> sample=timpani1_hit_v1_rr1_sum.mp3 lokey=36 hikey=43 pitch_keycenter=42 lovel=0 hivel=80 volume=27
+<region> sample=timpani1_hit_v3_rr1_sum.mp3 lokey=36 hikey=43 pitch_keycenter=42 lovel=81 hivel=127 volume=17
+<region> sample=timpani2_hit_v3_rr1_sum.mp3 lokey=44 hikey=47 pitch_keycenter=46 lovel=0 hivel=110 volume=10
+<region> sample=timpani2_hit_v4_rr1_sum.mp3 lokey=44 hikey=47 pitch_keycenter=46 lovel=111 hivel=127 volume=2
+<region> sample=timpani3_hit_v3_rr1_sum.mp3 lokey=48 hikey=50 pitch_keycenter=49 lovel=0 hivel=110 volume=10
+<region> sample=timpani3_hit_v4_rr1_sum.mp3 lokey=48 hikey=50 pitch_keycenter=49 lovel=111 hivel=127 volume=2
+<region> sample=timpani4_hit_v3_rr1_sum.mp3 lokey=51 hikey=52 pitch_keycenter=52 lovel=0 hivel=110 volume=10
+<region> sample=timpani4_hit_v4_rr1_sum.mp3 lokey=51 hikey=52 pitch_keycenter=52 lovel=111 hivel=127 volume=2
+<region> sample=timpani5_hit_v3_rr1_sum.mp3 lokey=53 hikey=60 pitch_keycenter=54 lovel=0 hivel=110 volume=10
+<region> sample=timpani5_hit_v4_rr1_sum.mp3 lokey=53 hikey=60 pitch_keycenter=54 lovel=111 hivel=127 volume=2

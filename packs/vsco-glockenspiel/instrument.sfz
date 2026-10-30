@@ -1,0 +1,12 @@
+// Glockenspiel (VSCO 2 CE, reduced for orOS Studio by koulaxizis/oros-sounds)
+// Samples: VS Chamber Orchestra: Community Edition, Versilian Studios
+// (Sam Gossner, Simon Dalzell; sample cutting Elan Hickler/Soundemote). CC0 1.0.
+<global>
+ampeg_attack=0.005
+ampeg_release=7
+<region> sample=glock_medium_g4.mp3 lokey=67 hikey=69 pitch_keycenter=67 lovel=0 hivel=127 volume=8
+<region> sample=glock_medium_c5.mp3 lokey=70 hikey=75 pitch_keycenter=72 lovel=0 hivel=127 volume=8
+<region> sample=glock_medium_g5.mp3 lokey=76 hikey=81 pitch_keycenter=79 lovel=0 hivel=127 volume=8
+<region> sample=glock_medium_c6.mp3 lokey=82 hikey=87 pitch_keycenter=84 lovel=0 hivel=127 volume=8
+<region> sample=glock_medium_g6.mp3 lokey=88 hikey=93 pitch_keycenter=91 lovel=0 hivel=127 volume=8
+<region> sample=glock_medium_c7.mp3 lokey=94 hikey=96 pitch_keycenter=96 lovel=0 hivel=127 volume=8

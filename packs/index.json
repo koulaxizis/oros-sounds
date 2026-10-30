@@ -1,0 +1,362 @@
+{
+ "version": 1,
+ "packs": [
+  {
+   "id": "vsco-horn",
+   "name": "French Horn",
+   "category": "Brass",
+   "kind": "lead",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 19,
+   "bytes": 2044497,
+   "keys": [
+    33,
+    77
+   ],
+   "layers": 2
+  },
+  {
+   "id": "vsco-trombone",
+   "name": "Trombone",
+   "category": "Brass",
+   "kind": "lead",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 22,
+   "bytes": 2795476,
+   "keys": [
+    34,
+    65
+   ],
+   "layers": 2
+  },
+  {
+   "id": "vsco-trumpet",
+   "name": "Trumpet",
+   "category": "Brass",
+   "kind": "lead",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 20,
+   "bytes": 3451185,
+   "keys": [
+    52,
+    84
+   ],
+   "layers": 2
+  },
+  {
+   "id": "vsco-tuba",
+   "name": "Tuba",
+   "category": "Brass",
+   "kind": "bass",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 16,
+   "bytes": 1457742,
+   "keys": [
+    29,
+    62
+   ],
+   "layers": 2
+  },
+  {
+   "id": "vsco-organ",
+   "name": "Pipe Organ",
+   "category": "Keys",
+   "kind": "organ",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 21,
+   "bytes": 3385299,
+   "keys": [
+    36,
+    96
+   ],
+   "layers": 1
+  },
+  {
+   "id": "vsco-upright-piano",
+   "name": "Upright Piano",
+   "category": "Keys",
+   "kind": "piano",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 46,
+   "bytes": 3481785,
+   "keys": [
+    21,
+    108
+   ],
+   "layers": 2
+  },
+  {
+   "id": "vsco-glockenspiel",
+   "name": "Glockenspiel",
+   "category": "Percussion",
+   "kind": "piano",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 6,
+   "bytes": 198714,
+   "keys": [
+    67,
+    96
+   ],
+   "layers": 1
+  },
+  {
+   "id": "vsco-marimba",
+   "name": "Marimba",
+   "category": "Percussion",
+   "kind": "piano",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 10,
+   "bytes": 198508,
+   "keys": [
+    41,
+    96
+   ],
+   "layers": 1
+  },
+  {
+   "id": "vsco-timpani",
+   "name": "Timpani",
+   "category": "Percussion",
+   "kind": "drums",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 10,
+   "bytes": 378620,
+   "keys": [
+    36,
+    60
+   ],
+   "layers": 2
+  },
+  {
+   "id": "vsco-tubular-bells",
+   "name": "Tubular Bells",
+   "category": "Percussion",
+   "kind": "piano",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 4,
+   "bytes": 443694,
+   "keys": [
+    60,
+    79
+   ],
+   "layers": 1
+  },
+  {
+   "id": "vsco-xylophone",
+   "name": "Xylophone",
+   "category": "Percussion",
+   "kind": "piano",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 8,
+   "bytes": 132058,
+   "keys": [
+    55,
+    96
+   ],
+   "layers": 1
+  },
+  {
+   "id": "vsco-cellos",
+   "name": "Cello Section",
+   "category": "Strings",
+   "kind": "strings",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 26,
+   "bytes": 4455014,
+   "keys": [
+    36,
+    77
+   ],
+   "layers": 2
+  },
+  {
+   "id": "vsco-contrabass",
+   "name": "Contrabass",
+   "category": "Strings",
+   "kind": "bass",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 26,
+   "bytes": 3745418,
+   "keys": [
+    24,
+    60
+   ],
+   "layers": 2
+  },
+  {
+   "id": "vsco-harp",
+   "name": "Harp",
+   "category": "Strings",
+   "kind": "piano",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 23,
+   "bytes": 1650843,
+   "keys": [
+    28,
+    101
+   ],
+   "layers": 1
+  },
+  {
+   "id": "vsco-violas",
+   "name": "Viola Section",
+   "category": "Strings",
+   "kind": "strings",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 26,
+   "bytes": 4517015,
+   "keys": [
+    48,
+    86
+   ],
+   "layers": 2
+  },
+  {
+   "id": "vsco-violins",
+   "name": "Violin Section",
+   "category": "Strings",
+   "kind": "strings",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 22,
+   "bytes": 3922335,
+   "keys": [
+    55,
+    86
+   ],
+   "layers": 2
+  },
+  {
+   "id": "vsco-violins-pizz",
+   "name": "Violins Pizzicato",
+   "category": "Strings",
+   "kind": "strings",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 22,
+   "bytes": 365151,
+   "keys": [
+    55,
+    86
+   ],
+   "layers": 2
+  },
+  {
+   "id": "vsco-bassoon",
+   "name": "Bassoon",
+   "category": "Woodwinds",
+   "kind": "lead",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 25,
+   "bytes": 3412242,
+   "keys": [
+    34,
+    75
+   ],
+   "layers": 2
+  },
+  {
+   "id": "vsco-clarinet",
+   "name": "Clarinet",
+   "category": "Woodwinds",
+   "kind": "lead",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 22,
+   "bytes": 4071389,
+   "keys": [
+    50,
+    90
+   ],
+   "layers": 2
+  },
+  {
+   "id": "vsco-flute",
+   "name": "Flute",
+   "category": "Woodwinds",
+   "kind": "lead",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 13,
+   "bytes": 2185010,
+   "keys": [
+    60,
+    96
+   ],
+   "layers": 2
+  },
+  {
+   "id": "vsco-oboe",
+   "name": "Oboe",
+   "category": "Woodwinds",
+   "kind": "lead",
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "sfz": "instrument.sfz",
+   "files": 18,
+   "bytes": 2597837,
+   "keys": [
+    58,
+    89
+   ],
+   "layers": 2
+  }
+ ]
+}
