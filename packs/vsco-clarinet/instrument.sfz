@@ -1,0 +1,28 @@
+// Clarinet (VSCO 2 CE, reduced for orOS Studio by koulaxizis/oros-sounds)
+// Samples: VS Chamber Orchestra: Community Edition, Versilian Studios
+// (Sam Gossner, Simon Dalzell; sample cutting Elan Hickler/Soundemote). CC0 1.0.
+<global>
+ampeg_attack=0.001
+ampeg_release=0.7
+<region> sample=dcclar_suslong_d2_v2_rr1_sum.mp3 lokey=50 hikey=51 pitch_keycenter=50 lovel=0 hivel=83 volume=13
+<region> sample=dcclar_suslong_d2_v3_rr1_sum.mp3 lokey=50 hikey=51 pitch_keycenter=50 lovel=84 hivel=127 volume=3
+<region> sample=dcclar_suslong_f2_v2_rr1_sum.mp3 lokey=52 hikey=55 pitch_keycenter=53 lovel=0 hivel=83 volume=13
+<region> sample=dcclar_suslong_f2_v3_rr1_sum.mp3 lokey=52 hikey=55 pitch_keycenter=53 lovel=84 hivel=127 volume=3
+<region> sample=dcclar_suslong_as2_v2_rr1_sum.mp3 lokey=56 hikey=59 pitch_keycenter=58 lovel=0 hivel=83 volume=13
+<region> sample=dcclar_suslong_as2_v3_rr1_sum.mp3 lokey=56 hikey=59 pitch_keycenter=58 lovel=84 hivel=127 volume=3
+<region> sample=dcclar_suslong_d3_v2_rr1_sum.mp3 lokey=60 hikey=63 pitch_keycenter=62 lovel=0 hivel=83 volume=13
+<region> sample=dcclar_suslong_d3_v3_rr1_sum.mp3 lokey=60 hikey=63 pitch_keycenter=62 lovel=84 hivel=127 volume=3
+<region> sample=dcclar_suslong_f3_v2_rr1_sum.mp3 lokey=64 hikey=67 pitch_keycenter=65 lovel=0 hivel=83 volume=13
+<region> sample=dcclar_suslong_f3_v3_rr1_sum.mp3 lokey=64 hikey=67 pitch_keycenter=65 lovel=84 hivel=127 volume=3
+<region> sample=dcclar_suslong_as3_v2_rr1_sum.mp3 lokey=68 hikey=71 pitch_keycenter=70 lovel=0 hivel=83 volume=13
+<region> sample=dcclar_suslong_as3_v3_rr1_sum.mp3 lokey=68 hikey=71 pitch_keycenter=70 lovel=84 hivel=127 volume=3
+<region> sample=dcclar_suslong_d4_v2_rr1_sum.mp3 lokey=72 hikey=75 pitch_keycenter=74 lovel=0 hivel=83 volume=13
+<region> sample=dcclar_suslong_d4_v3_rr1_sum.mp3 lokey=72 hikey=75 pitch_keycenter=74 lovel=84 hivel=127 volume=3
+<region> sample=dcclar_suslong_f4_v2_rr1_sum.mp3 lokey=76 hikey=79 pitch_keycenter=77 lovel=0 hivel=83 volume=13
+<region> sample=dcclar_suslong_f4_v3_rr1_sum.mp3 lokey=76 hikey=79 pitch_keycenter=77 lovel=84 hivel=127 volume=3
+<region> sample=dcclar_suslong_as4_v2_rr1_sum.mp3 lokey=80 hikey=83 pitch_keycenter=82 lovel=0 hivel=83 volume=13
+<region> sample=dcclar_suslong_as4_v3_rr1_sum.mp3 lokey=80 hikey=83 pitch_keycenter=82 lovel=84 hivel=127 volume=3
+<region> sample=dcclar_suslong_d5_v2_rr1_sum.mp3 lokey=84 hikey=87 pitch_keycenter=86 lovel=0 hivel=83 volume=13
+<region> sample=dcclar_suslong_d5_v3_rr1_sum.mp3 lokey=84 hikey=87 pitch_keycenter=86 lovel=84 hivel=127 volume=3
+<region> sample=dcclar_suslong_fs5_v2_rr1_sum.mp3 lokey=88 hikey=90 pitch_keycenter=89 lovel=0 hivel=83 volume=8
+<region> sample=dcclar_suslong_fs5_v3_rr1_sum.mp3 lokey=88 hikey=90 pitch_keycenter=89 lovel=84 hivel=127 volume=3
