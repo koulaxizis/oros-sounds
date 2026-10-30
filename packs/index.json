@@ -4,6 +4,10 @@
   {
    "id": "vsco-horn",
    "name": "French Horn",
+   "names": {
+    "el": "Κόρνο",
+    "de": "Horn"
+   },
    "category": "Brass",
    "kind": "lead",
    "lic": "cc0",
@@ -21,6 +25,10 @@
   {
    "id": "vsco-trombone",
    "name": "Trombone",
+   "names": {
+    "el": "Τρομπόνι",
+    "de": "Posaune"
+   },
    "category": "Brass",
    "kind": "lead",
    "lic": "cc0",
@@ -38,6 +46,10 @@
   {
    "id": "vsco-trumpet",
    "name": "Trumpet",
+   "names": {
+    "el": "Τρομπέτα",
+    "de": "Trompete"
+   },
    "category": "Brass",
    "kind": "lead",
    "lic": "cc0",
@@ -55,6 +67,10 @@
   {
    "id": "vsco-tuba",
    "name": "Tuba",
+   "names": {
+    "el": "Τούμπα",
+    "de": "Tuba"
+   },
    "category": "Brass",
    "kind": "bass",
    "lic": "cc0",
@@ -72,6 +88,10 @@
   {
    "id": "vsco-organ",
    "name": "Pipe Organ",
+   "names": {
+    "el": "Εκκλησιαστικό όργανο",
+    "de": "Pfeifenorgel"
+   },
    "category": "Keys",
    "kind": "organ",
    "lic": "cc0",
@@ -89,6 +109,10 @@
   {
    "id": "vsco-upright-piano",
    "name": "Upright Piano",
+   "names": {
+    "el": "Όρθιο πιάνο",
+    "de": "Klavier"
+   },
    "category": "Keys",
    "kind": "piano",
    "lic": "cc0",
@@ -106,6 +130,10 @@
   {
    "id": "vsco-glockenspiel",
    "name": "Glockenspiel",
+   "names": {
+    "el": "Γκλόκενσπιλ",
+    "de": "Glockenspiel"
+   },
    "category": "Percussion",
    "kind": "piano",
    "lic": "cc0",
@@ -123,6 +151,10 @@
   {
    "id": "vsco-marimba",
    "name": "Marimba",
+   "names": {
+    "el": "Μαρίμπα",
+    "de": "Marimba"
+   },
    "category": "Percussion",
    "kind": "piano",
    "lic": "cc0",
@@ -140,6 +172,10 @@
   {
    "id": "vsco-timpani",
    "name": "Timpani",
+   "names": {
+    "el": "Τύμπανα (timpani)",
+    "de": "Pauken"
+   },
    "category": "Percussion",
    "kind": "drums",
    "lic": "cc0",
@@ -157,6 +193,10 @@
   {
    "id": "vsco-tubular-bells",
    "name": "Tubular Bells",
+   "names": {
+    "el": "Σωληνωτές καμπάνες",
+    "de": "Röhrenglocken"
+   },
    "category": "Percussion",
    "kind": "piano",
    "lic": "cc0",
@@ -174,6 +214,10 @@
   {
    "id": "vsco-xylophone",
    "name": "Xylophone",
+   "names": {
+    "el": "Ξυλόφωνο",
+    "de": "Xylofon"
+   },
    "category": "Percussion",
    "kind": "piano",
    "lic": "cc0",
@@ -191,6 +235,10 @@
   {
    "id": "vsco-cellos",
    "name": "Cello Section",
+   "names": {
+    "el": "Τσέλα (ομάδα)",
+    "de": "Celli"
+   },
    "category": "Strings",
    "kind": "strings",
    "lic": "cc0",
@@ -208,6 +256,10 @@
   {
    "id": "vsco-contrabass",
    "name": "Contrabass",
+   "names": {
+    "el": "Κοντραμπάσο",
+    "de": "Kontrabass"
+   },
    "category": "Strings",
    "kind": "bass",
    "lic": "cc0",
@@ -225,6 +277,10 @@
   {
    "id": "vsco-harp",
    "name": "Harp",
+   "names": {
+    "el": "Άρπα",
+    "de": "Harfe"
+   },
    "category": "Strings",
    "kind": "piano",
    "lic": "cc0",
@@ -242,6 +298,10 @@
   {
    "id": "vsco-violas",
    "name": "Viola Section",
+   "names": {
+    "el": "Βιόλες (ομάδα)",
+    "de": "Bratschen"
+   },
    "category": "Strings",
    "kind": "strings",
    "lic": "cc0",
@@ -259,6 +319,10 @@
   {
    "id": "vsco-violins",
    "name": "Violin Section",
+   "names": {
+    "el": "Βιολιά (ομάδα)",
+    "de": "Violinen"
+   },
    "category": "Strings",
    "kind": "strings",
    "lic": "cc0",
@@ -276,6 +340,10 @@
   {
    "id": "vsco-violins-pizz",
    "name": "Violins Pizzicato",
+   "names": {
+    "el": "Βιολιά πιτσικάτο",
+    "de": "Violinen pizzicato"
+   },
    "category": "Strings",
    "kind": "strings",
    "lic": "cc0",
@@ -293,6 +361,10 @@
   {
    "id": "vsco-bassoon",
    "name": "Bassoon",
+   "names": {
+    "el": "Φαγκότο",
+    "de": "Fagott"
+   },
    "category": "Woodwinds",
    "kind": "lead",
    "lic": "cc0",
@@ -310,6 +382,10 @@
   {
    "id": "vsco-clarinet",
    "name": "Clarinet",
+   "names": {
+    "el": "Κλαρινέτο",
+    "de": "Klarinette"
+   },
    "category": "Woodwinds",
    "kind": "lead",
    "lic": "cc0",
@@ -327,6 +403,10 @@
   {
    "id": "vsco-flute",
    "name": "Flute",
+   "names": {
+    "el": "Φλάουτο",
+    "de": "Flöte"
+   },
    "category": "Woodwinds",
    "kind": "lead",
    "lic": "cc0",
@@ -344,6 +424,10 @@
   {
    "id": "vsco-oboe",
    "name": "Oboe",
+   "names": {
+    "el": "Όμποε",
+    "de": "Oboe"
+   },
    "category": "Woodwinds",
    "kind": "lead",
    "lic": "cc0",
