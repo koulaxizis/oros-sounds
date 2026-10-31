@@ -107,27 +107,6 @@
    "layers": 4
   },
   {
-   "id": "vsco-organ",
-   "name": "Pipe Organ",
-   "names": {
-    "el": "Εκκλησιαστικό όργανο",
-    "de": "Pfeifenorgel"
-   },
-   "category": "Keys",
-   "kind": "organ",
-   "lic": "cc0",
-   "by": "Versilian Studios (VSCO 2 CE)",
-   "url": "https://github.com/sgossner/VSCO-2-CE",
-   "sfz": "instrument.sfz",
-   "files": 21,
-   "bytes": 3385299,
-   "keys": [
-    36,
-    96
-   ],
-   "layers": 1
-  },
-  {
    "id": "vsco-upright-piano",
    "name": "Upright Piano",
    "names": {
@@ -149,48 +128,6 @@
    "layers": 2
   },
   {
-   "id": "vsco-glockenspiel",
-   "name": "Glockenspiel",
-   "names": {
-    "el": "Γκλόκενσπιλ",
-    "de": "Glockenspiel"
-   },
-   "category": "Percussion",
-   "kind": "piano",
-   "lic": "cc0",
-   "by": "Versilian Studios (VSCO 2 CE)",
-   "url": "https://github.com/sgossner/VSCO-2-CE",
-   "sfz": "instrument.sfz",
-   "files": 6,
-   "bytes": 198714,
-   "keys": [
-    67,
-    96
-   ],
-   "layers": 1
-  },
-  {
-   "id": "vsco-marimba",
-   "name": "Marimba",
-   "names": {
-    "el": "Μαρίμπα",
-    "de": "Marimba"
-   },
-   "category": "Percussion",
-   "kind": "piano",
-   "lic": "cc0",
-   "by": "Versilian Studios (VSCO 2 CE)",
-   "url": "https://github.com/sgossner/VSCO-2-CE",
-   "sfz": "instrument.sfz",
-   "files": 10,
-   "bytes": 198508,
-   "keys": [
-    41,
-    96
-   ],
-   "layers": 1
-  },
-  {
    "id": "vsco-percussion",
    "name": "Orchestral Percussion",
    "names": {
@@ -210,69 +147,6 @@
     104
    ],
    "layers": 2
-  },
-  {
-   "id": "vsco-timpani",
-   "name": "Timpani",
-   "names": {
-    "el": "Τύμπανα (timpani)",
-    "de": "Pauken"
-   },
-   "category": "Percussion",
-   "kind": "drums",
-   "lic": "cc0",
-   "by": "Versilian Studios (VSCO 2 CE)",
-   "url": "https://github.com/sgossner/VSCO-2-CE",
-   "sfz": "instrument.sfz",
-   "files": 10,
-   "bytes": 378620,
-   "keys": [
-    36,
-    60
-   ],
-   "layers": 2
-  },
-  {
-   "id": "vsco-tubular-bells",
-   "name": "Tubular Bells",
-   "names": {
-    "el": "Σωληνωτές καμπάνες",
-    "de": "Röhrenglocken"
-   },
-   "category": "Percussion",
-   "kind": "piano",
-   "lic": "cc0",
-   "by": "Versilian Studios (VSCO 2 CE)",
-   "url": "https://github.com/sgossner/VSCO-2-CE",
-   "sfz": "instrument.sfz",
-   "files": 4,
-   "bytes": 443694,
-   "keys": [
-    60,
-    79
-   ],
-   "layers": 1
-  },
-  {
-   "id": "vsco-xylophone",
-   "name": "Xylophone",
-   "names": {
-    "el": "Ξυλόφωνο",
-    "de": "Xylofon"
-   },
-   "category": "Percussion",
-   "kind": "piano",
-   "lic": "cc0",
-   "by": "Versilian Studios (VSCO 2 CE)",
-   "url": "https://github.com/sgossner/VSCO-2-CE",
-   "sfz": "instrument.sfz",
-   "files": 8,
-   "bytes": 132058,
-   "keys": [
-    55,
-    96
-   ],
-   "layers": 1
   },
   {
    "id": "vsco-cellos",
@@ -317,27 +191,6 @@
    "layers": 2
   },
   {
-   "id": "vsco-harp",
-   "name": "Harp",
-   "names": {
-    "el": "Άρπα",
-    "de": "Harfe"
-   },
-   "category": "Strings",
-   "kind": "piano",
-   "lic": "cc0",
-   "by": "Versilian Studios (VSCO 2 CE)",
-   "url": "https://github.com/sgossner/VSCO-2-CE",
-   "sfz": "instrument.sfz",
-   "files": 23,
-   "bytes": 1650843,
-   "keys": [
-    28,
-    101
-   ],
-   "layers": 1
-  },
-  {
    "id": "vsco-violas",
    "name": "Viola Section",
    "names": {
@@ -373,27 +226,6 @@
    "sfz": "instrument.sfz",
    "files": 22,
    "bytes": 3922335,
-   "keys": [
-    55,
-    86
-   ],
-   "layers": 2
-  },
-  {
-   "id": "vsco-violins-pizz",
-   "name": "Violins Pizzicato",
-   "names": {
-    "el": "Βιολιά πιτσικάτο",
-    "de": "Violinen pizzicato"
-   },
-   "category": "Strings",
-   "kind": "strings",
-   "lic": "cc0",
-   "by": "Versilian Studios (VSCO 2 CE)",
-   "url": "https://github.com/sgossner/VSCO-2-CE",
-   "sfz": "instrument.sfz",
-   "files": 22,
-   "bytes": 365151,
    "keys": [
     55,
     86
