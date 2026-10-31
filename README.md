@@ -16,7 +16,7 @@ A pack is a folder with `instrument.sfz` (the subset Studio plays, see
 
 | Source | Licence | Packs |
 |---|---|---|
-| [VS Chamber Orchestra: Community Edition](https://github.com/sgossner/VSCO-2-CE) (Versilian Studios; Sam Gossner, Simon Dalzell; sample cutting Elan Hickler/Soundemote) | CC0 1.0 | `vsco-*` (22) |
+| [VS Chamber Orchestra: Community Edition](https://github.com/sgossner/VSCO-2-CE) (Versilian Studios; Sam Gossner, Simon Dalzell; sample cutting Elan Hickler/Soundemote) | CC0 1.0 | `vsco-*` (14) |
 | [Salamander Grand Piano V3](https://archive.org/details/SalamanderGrandPianoV3) (Alexander Holm; SFZ by kinwie, [sfzinstruments](https://github.com/sfzinstruments/SalamanderGrandPiano)), changed: 4 of 16 velocity layers, no release noises, trimmed, MP3 | CC BY 3.0 | `salamander-grand-piano` |
 
 `samples/index.json` lists single sounds (hits, swells, rolls) in groups;

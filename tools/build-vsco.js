@@ -21,15 +21,14 @@ const SFZ = require("./sfz-read.js");
 
 // id, name, category, VSCO sfz, velocity layers kept, longest sample (s),
 // built-in sound of the same kind (what an older Studio plays instead)
+// Organ, harp, pizzicato violins, mallets and timpani were removed on 2026-10-31: Studio plays
+// them with the NULL JSFX instruments (Organ Pipe voice, Pluck, Mallets) since NULL JSFX 2.8.
 const PACKS = [
   ["vsco-upright-piano", "Upright Piano", "Keys", "UprightPiano", 2, 6, "piano"],
-  ["vsco-organ", "Pipe Organ", "Keys", "OrganLoud", 1, 8, "organ"],
   ["vsco-violins", "Violin Section", "Strings", "ViolinEnsSusVib", 2, 8, "strings"],
   ["vsco-violas", "Viola Section", "Strings", "ViolaEnsSusVib", 2, 8, "strings"],
   ["vsco-cellos", "Cello Section", "Strings", "CelloEnsSusVib", 2, 8, "strings"],
   ["vsco-contrabass", "Contrabass", "Strings", "ContrabassSusVB", 2, 8, "bass"],
-  ["vsco-violins-pizz", "Violins Pizzicato", "Strings", "ViolinEnsPizz", 2, 3, "strings"],
-  ["vsco-harp", "Harp", "Strings", "Harp", 1, 6, "piano"],
   ["vsco-flute", "Flute", "Woodwinds", "FluteSusVib", 2, 8, "lead"],
   ["vsco-oboe", "Oboe", "Woodwinds", "OboeSusVib", 2, 8, "lead"],
   ["vsco-clarinet", "Clarinet", "Woodwinds", "ClarinetSus", 2, 8, "lead"],
@@ -38,11 +37,6 @@ const PACKS = [
   ["vsco-trumpet", "Trumpet", "Brass", "TrumpetSus", 2, 8, "lead"],
   ["vsco-trombone", "Trombone", "Brass", "TromboneSus", 2, 8, "lead"],
   ["vsco-tuba", "Tuba", "Brass", "TubaSus", 2, 8, "bass"],
-  ["vsco-glockenspiel", "Glockenspiel", "Percussion", "Glockenspiel", 1, 5, "piano"],
-  ["vsco-marimba", "Marimba", "Percussion", "Marimba", 1, 4, "piano"],
-  ["vsco-xylophone", "Xylophone", "Percussion", "Xylophone", 1, 3, "piano"],
-  ["vsco-timpani", "Timpani", "Percussion", "Timpani", 2, 6, "drums"],
-  ["vsco-tubular-bells", "Tubular Bells", "Percussion", "TubularBells", 1, 8, "piano"],
   ["vsco-percussion", "Orchestral Percussion", "Percussion", "GM-StylePerc", 2, 6, "drums"]
 ];
 // the names in Studio's other languages (Studio shows `name` otherwise)
