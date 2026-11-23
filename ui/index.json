@@ -1,0 +1,76 @@
+{
+ "version": 1,
+ "sounds": [
+  "tap",
+  "on",
+  "off",
+  "open",
+  "close"
+ ],
+ "packs": [
+  {
+   "id": "pebble",
+   "name": "Pebble",
+   "names": {
+    "el": "Βότσαλο",
+    "de": "Kiesel"
+   },
+   "files": {
+    "tap": "pebble/tap.mp3",
+    "on": "pebble/on.mp3",
+    "off": "pebble/off.mp3",
+    "open": "pebble/open.mp3",
+    "close": "pebble/close.mp3"
+   },
+   "bytes": 13078,
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE"
+  },
+  {
+   "id": "keys",
+   "name": "Keys",
+   "names": {
+    "el": "Πλήκτρα",
+    "de": "Tasten"
+   },
+   "files": {
+    "tap": "keys/tap.mp3",
+    "on": "keys/on.mp3",
+    "off": "keys/off.mp3",
+    "open": "keys/open.mp3",
+    "close": "keys/close.mp3"
+   },
+   "bytes": 17466,
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE"
+  },
+  {
+   "id": "crystal",
+   "name": "Crystal",
+   "names": {
+    "el": "Κρύσταλλο",
+    "de": "Kristall"
+   },
+   "files": {
+    "tap": "crystal/tap.mp3",
+    "on": "crystal/on.mp3",
+    "off": "crystal/off.mp3",
+    "open": "crystal/open.mp3",
+    "close": "crystal/close.mp3"
+   },
+   "bytes": 19346,
+   "lic": "cc0",
+   "by": "Versilian Studios (VSCO 2 CE)",
+   "url": "https://github.com/sgossner/VSCO-2-CE"
+  }
+ ],
+ "names": {
+  "tap": "Tap",
+  "on": "Switch on",
+  "off": "Switch off",
+  "open": "Open",
+  "close": "Close"
+ }
+}
