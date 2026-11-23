@@ -26,6 +26,16 @@ Studio adds one as an audio clip with its licence card filled in.
 |---|---|---|
 | VS Chamber Orchestra: Community Edition (percussion) | CC0 1.0 | 34 in `samples/` |
 
+`ui/index.json` lists the interface sound packs orOS plays for taps,
+switches and opening and closing apps and panels (Settings › Sound ›
+Interface sounds, off by default): `pebble`, `keys` and `crystal`, five short
+sounds each (`tap`, `on`, `off`, `open`, `close`), a few KB in all. orOS
+keeps the chosen pack on the device after the first download.
+
+| Source | Licence | Sounds |
+|---|---|---|
+| VS Chamber Orchestra: Community Edition (percussion, upright piano), from this repository's own `packs/` | CC0 1.0 | 15 in `ui/` |
+
 Only sources without grey areas go here: CC0, public domain, or CC BY with
 the credit carried in the pack. Studio lists the pack in the song's credits
 on Export.
@@ -38,6 +48,7 @@ Packs are built, never edited by hand:
 node tools/build-vsco.js <VSCO-2-CE checkout> <folder with its .sfz files>
 node tools/build-salamander.js <SalamanderGrandPiano checkout>
 node tools/build-samples.js <VSCO-2-CE checkout>
+node tools/build-ui.js            # from packs/, needs ffmpeg
 node tools/check.js
 ```
 
